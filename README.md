@@ -59,8 +59,8 @@ The Astrophysical Journal (Contributor)
 
 ## Connect
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/nathaniel-ramirez-/)
 
-Email
+[Email](mailto:nathaniel.i.r@icloud.com)
 
 Portfolio (Coming Soon)
