@@ -1,4 +1,4 @@
-# Hi, I'm Nathaniel Ramirez 👋
+# Nathaniel Ramirez
 
 Systems Software Engineer
 
