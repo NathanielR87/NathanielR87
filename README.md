@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Nathaniel Ramirez 👋
 
-<!--
-**NathanielR87/NathanielR87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Software Engineer
 
-Here are some ideas to get you started:
+Building intelligent, interactive, and data-driven systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I'm a Computer Science graduate from the University of Colorado Boulder with experience spanning software engineering, scientific research, embedded systems, cloud computing, and virtual reality.
+
+I enjoy solving real-world problems by combining software, hardware, and data. My work ranges from production cloud applications and environmental research to immersive VR experiences and autonomous embedded systems.
+
+I'm currently interested in
+
+- Artificial Intelligence
+- Extended Reality (XR)
+- Embedded Systems
+- Computer Graphics
+- Cloud Computing
+- Human-Computer Interaction
+
+---
+
+## Current Projects
+
+🖥️ Local AI Development Environment
+
+🎮 Unity Game
+
+📱 Learning Swift
+
+🤖 AI Agents
+
+---
+
+## Featured Projects
+
+🎮 VR Carnival
+
+🌱 Life Light
+
+🏫 OpenGL Classroom
+
+🧩 Puzzle Generator
+
+🌍 Indoor Air Quality Research
+
+---
+
+## Publications
+
+Characterization and Control of Room Air Mixing Regimes in Public Elementary School Classrooms (Under Review)
+
+The Astrophysical Journal (Contributor)
+
+---
+
+## Connect
+
+LinkedIn
+
+Email
+
+Portfolio (Coming Soon)
